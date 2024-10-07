@@ -1,1 +1,1 @@
-package HttpPostMethodEasy10;
+package com.simplifying;
